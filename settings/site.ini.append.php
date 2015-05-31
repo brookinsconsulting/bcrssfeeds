@@ -1,6 +1,6 @@
-<?php /*
+<?php /* #?ini charset="utf-8"?
 
 [TemplateSettings]
-ExtensionAutoloadPath[]=rssfeedoperator
+ExtensionAutoloadPath[]=bcrssfeeds
 
 */ ?>

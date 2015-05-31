@@ -1,0 +1,32 @@
+{
+    "name": "brookinsconsulting/bcrssfeeds",
+    "description": "eZ Publish Legacy extension which provides a template operator and fetch functions that provide additional eZ Publish RSS feed functionality within templates",
+    "type": "ezpublish-legacy-extension",
+    "keywords": [ "eZ Publish", "rss", "template", "operator", "fetch function" ],
+    "homepage": "https://github.com/brookinsconsulting/bcrssfeeds",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name" : "Brookins Consulting",
+            "homepage": "http://brookinsconsulting.com",
+            "email": "info@brookinsconsulting.com",
+            "role": "Developer"
+        },
+        {
+            "name" : "Kristof Coomans",
+            "role": "Developer"
+        },
+        {
+            "name" : "Bertrand Dunogier",
+            "role": "Original Author"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.0.0",
+        "ezsystems/ezpublish-legacy-installer": "*"
+    },
+    "extra": {
+        "ezpublish-legacy-extension-name": "bcrssfeeds"
+    }
+}
